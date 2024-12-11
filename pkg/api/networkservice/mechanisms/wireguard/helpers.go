@@ -20,7 +20,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/networkservicemesh/api/pkg/api/networkservice"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice"
 )
 
 // Mechanism is a wireguard mechanism helper

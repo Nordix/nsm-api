@@ -30,8 +30,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/networkservicemesh/api/pkg/api/networkservice"
-	"github.com/networkservicemesh/api/pkg/api/networkservice/mechanisms/cls"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice/mechanisms/cls"
 )
 
 // Mechanism is a kernel mechanism helper

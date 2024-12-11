@@ -20,8 +20,8 @@ package memif
 import (
 	"net/url"
 
-	"github.com/networkservicemesh/api/pkg/api/networkservice"
-	"github.com/networkservicemesh/api/pkg/api/networkservice/mechanisms/cls"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice/mechanisms/cls"
 )
 
 // Mechanism provides helper methods for mechanisms of type memif

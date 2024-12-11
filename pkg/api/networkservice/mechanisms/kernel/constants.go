@@ -21,7 +21,7 @@
 package kernel
 
 import (
-	"github.com/networkservicemesh/api/pkg/api/networkservice/mechanisms/common"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice/mechanisms/common"
 )
 
 const (

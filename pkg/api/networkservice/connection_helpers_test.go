@@ -23,7 +23,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/networkservicemesh/api/pkg/api/networkservice"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice"
 )
 
 // nolint: funlen

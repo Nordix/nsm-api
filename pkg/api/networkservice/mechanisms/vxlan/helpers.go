@@ -23,8 +23,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/networkservicemesh/api/pkg/api/networkservice"
-	"github.com/networkservicemesh/api/pkg/api/networkservice/mechanisms/common"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice"
+	"github.com/Nordix/nsm-api/pkg/api/networkservice/mechanisms/common"
 )
 
 // Mechanism - a vxlan Mechanism utility wrapper
